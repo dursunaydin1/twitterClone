@@ -47,7 +47,7 @@ Bu proje, sosyal medya platformu **Twitter**'ın temel özelliklerini içeren ba
 
 ## Netlify Linki
 
-[Netlify Linki](<Netlify Linki>)
+[Netlify Linki](https://twitterclonebasic.netlify.app)
 
 ## Ön İzleme Gif Linki
 
